@@ -2,8 +2,8 @@
 course: probabilistic graphical Models  
   
 
-##  [Multi-dimensional Baysian Network Classifier](https://github.com/E008001/probabilistic-graphical-Models/blob/master/Multi-dim%20BN%20classifier-1.pdf)
-## Multi-dimensional Baysian Network Classifier
+##  [Multi-dimensional Bayesian Network Classifier](https://github.com/E008001/probabilistic-graphical-Models/blob/master/Multi-dim%20BN%20classifier-1.pdf)
+## Multi-dimensional Bayesian Network Classifier
 ### Lynda C. Van der Gaag. &   Peter R. de Waal  
   
   Bayesian Network Classifiers for solving classification problems where an instance described by a number of features has to be classified  in one of several classes  
