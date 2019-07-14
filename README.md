@@ -1,5 +1,6 @@
 # probabilistic-graphical-Models
-course: probabilistic graphical Models
+course: probabilistic graphical Models  
+* Multi-dimensional Baysian Network Classifier (with Mark Niemann-Ross). [Click Here](https://github.com/E008001/probabilistic-graphical-Models/blob/master/Multi-dim%20BN%20classifier-1.pdfl)
 ## Multi-dimensional Baysian Network Classifier
 ### Lynda C. Van der Gaag. &   Peter R. de Waal  
-* R Programming in Data Science: Setup and Start (with Mark Niemann-Ross). [Click Here](https://www.lynda.com/R-tutorials/R-Programming-Data-Science-Setup-Start/614304-2.html)
+
